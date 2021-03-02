@@ -1,2 +1,2 @@
 # ESPArduinoMongoose
-Mongoose Embedded Web Server Library on ESP Arduino
+Mongoose Embedded Web Server Example on ESP32 Arduino
